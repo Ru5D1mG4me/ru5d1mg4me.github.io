@@ -44,3 +44,9 @@ h1 {
 p {
   color: #00ff00;
 }
+
+footer {
+  height: 60px;
+  background-color: #141414;
+  text-align: center;
+}
